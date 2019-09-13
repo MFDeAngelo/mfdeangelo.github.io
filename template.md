@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Matthew DeAngelo's GitHub
 
 You can use the [editor on GitHub](https://github.com/MFDeAngelo/mfdeangelo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
